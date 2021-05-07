@@ -39,6 +39,7 @@ _Tambien se debe poder guardar datos de consulta, los cuales serán:_
 - Datos de interes.
 - Diagnostico.
 - Tratamiento.
+_--Las tablas deben tener relacion--_
 
 
 
@@ -54,11 +55,11 @@ Java, C#, Dart, Php, etc.
 
 ## Entregar 📦
 
-_Se entregará el ejecutable y el modelo ER._
+_Se mostrara el proyecto funcional y el modelo ER._
 
 ## Felicidades, es todo.
 
-* Te invito uan cerveza 🍺. 
+* Te invito una cerveza 🍺. 
 
 
 
