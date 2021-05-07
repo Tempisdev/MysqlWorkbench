@@ -30,6 +30,7 @@ _Se debe crear una BD enfocada al registro de pacientes. La cual contara con los
 - Localidad.
 - Telefono
 - Sexo.
+- Id.
 
 _Estos serian los datos presonales del paciente._
 
